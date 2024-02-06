@@ -1,0 +1,42 @@
+body {
+  background-color: pink
+}
+
+h2 {
+  color: green;
+  text-align: center;
+}
+
+.Card {
+  
+  
+  display: flex;
+  
+}
+
+.Subcard {
+  margin: auto;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',Arial, sans-serif;
+  width: fit-content;
+  border: 2px solid grey;
+  border-radius: 22px;
+  background-color: aliceblue;
+  padding: 8%;
+}
+
+h4 {
+  outline-width: 0cm ;
+
+}
+
+#font-style {
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+}
+
+.Font-look {
+  background-color: blanchedalmond;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: "100px";
+}
